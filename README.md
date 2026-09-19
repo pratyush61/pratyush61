@@ -293,39 +293,7 @@ A real-time social media interface with chat and video calling, built with Redux
 
 ---
 
-<h2 align="center">⚡ Contribution Journey</h2>
-
-<table align="center" width="700" style="background:#041a0d;">
-<tr>
-
-<td align="center" width="33%">
-  <h2>1000+</h2>
-  <hr />
-  <b>Total Commits</b>
-  <br /><br />
-  Nov 18, 2024 -<br />
-  Present
-</td>
-
-<td align="center" width="33%">
-  <h2>24</h2>
-  <hr />
-  <b>Current Streak</b>
-  <br /><br />
-  Aug 27 - Sep 19
-</td>
-
-<td align="center" width="33%">
-  <h2>38</h2>
-  <hr />
-  <b>Longest Streak</b>
-  <br /><br />
-  Jul 11 - Aug 17
-</td>
-
-</tr>
-</table>
-
+ 
 <br />
 
 <p align="center">
