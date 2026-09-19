@@ -114,60 +114,54 @@
 <tr>
 
 <td align="center" width="33%" style="padding: 20px;">
+  <h3>🖥️ Personal Developer Portfolio</h3>
 
-<h3>🖥️ Personal Developer Portfolio</h3>
+  <p>
+    <i>
+      A modern personal portfolio built with React, featuring a scalable
+      component-based architecture and responsive UI with Tailwind CSS and Bootstrap.
+    </i>
+  </p>
 
-<p>
-<i>
-A modern personal portfolio built with React, featuring a scalable
-component-based architecture and responsive UI with Tailwind CSS and Bootstrap.
-</i>
-</p>
-
-<p>
-<a href="https://portfolio-jet-ten-jjtyz5uxhe.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
-</a>
-</p>
-
+  <p>
+    <a href="https://portfolio-jet-ten-jjtyz5uxhe.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+  </p>
 </td>
 
 <td align="center" width="33%" style="padding: 20px;">
+  <h3>🍏 Apple UI</h3>
 
-<h3>🍏 Apple UI</h3>
+  <p>
+    <i>
+      An Apple-inspired UI built with React and Three.js, featuring
+      interactive 3D elements and smooth scroll animations.
+    </i>
+  </p>
 
-<p>
-<i>
-An Apple-inspired UI built with React and Three.js, featuring
-interactive 3D elements and smooth scroll animations.
-</i>
-</p>
-
-<p>
-<a href="https://apple-ui-six.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
-</a>
-</p>
-
+  <p>
+    <a href="https://apple-ui-six.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+  </p>
 </td>
 
 <td align="center" width="33%" style="padding: 20px;">
+  <h3>📈 Modern Landing Page</h3>
 
-<h3>📈 Modern Landing Page</h3>
+  <p>
+    <i>
+      A modern landing page built with Next.js, featuring smooth Framer Motion
+      animations, responsive design, and optimized frontend performance.
+    </i>
+  </p>
 
-<p>
-<i>
-A modern landing page built with Next.js, featuring smooth Framer Motion
-animations, responsive design, and optimized frontend performance.
-</i>
-</p>
-
-<p>
-<a href="https://nike-landing-page-one-rose.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
-</a>
-</p>
-
+  <p>
+    <a href="https://nike-landing-page-one-rose.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+  </p>
 </td>
 
 </tr>
@@ -278,11 +272,25 @@ A real-time social media interface with chat and video calling, built with Redux
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="./assets/github-stats.svg" width="565" alt="GitHub Analytics & Activity" />
-</p>
+  <table align="center" style="border-collapse: collapse; background-color: #041a0d; border: 1px solid #0B3D0B;">
+    <tr>
+      <td align="center" style="padding: 18px 35px; border-right: 1px solid #0B3D0B;">
+        <b>🔥 2026 Commits</b>
+        <br /><br />
+        <span style="font-size: 28px;"><b>866</b></span>
+        <br /><br />
+        <hr style="border: 0; border-top: 1px solid #0B3D0B;" />
+      </td>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush61&theme=dark&hide_border=false&border=0B3D0B&background=041a0d&ring=00FF66&fire=00FF66&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF66&sideLabels=00FF66&dates=999999" width="480" alt="GitHub Streak" />
+      <td align="center" style="padding: 18px 35px;">
+        <b>📅 2025 Commits</b>
+        <br /><br />
+        <span style="font-size: 28px;"><b>207</b></span>
+        <br /><br />
+        <hr style="border: 0; border-top: 1px solid #0B3D0B;" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
@@ -294,39 +302,6 @@ A real-time social media interface with chat and video calling, built with Redux
 ---
 
 <h2 align="center">⚡ Contribution Journey</h2>
-
-<table align="center" width="700" style="background:#041a0d;">
-<tr>
-
-<td align="center" width="33%">
-  <h2>1000+</h2>
-  <hr />
-  <b>Total Commits</b>
-  <br /><br />
-  Nov 18, 2024 -<br />
-  Present
-</td>
-
-<td align="center" width="33%">
-  <h2>24</h2>
-  <hr />
-  <b>Current Streak</b>
-  <br /><br />
-  Aug 27 - Sep 19
-</td>
-
-<td align="center" width="33%">
-  <h2>38</h2>
-  <hr />
-  <b>Longest Streak</b>
-  <br /><br />
-  Jul 11 - Aug 17
-</td>
-
-</tr>
-</table>
-
-<br />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" alt="Snake Animation" />
