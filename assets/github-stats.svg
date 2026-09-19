@@ -1,0 +1,53 @@
+<svg width="565" height="235" viewBox="0 0 565 235" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="563" height="233" rx="10" fill="#041a0d" stroke="#0B3D0B" stroke-width="2"/>
+
+  <text x="282.5" y="42" text-anchor="middle"
+        fill="#00FF66" font-family="Arial, Helvetica, sans-serif"
+        font-size="21" font-weight="700">
+    pratyush61's GitHub Stats
+  </text>
+
+  <line x1="25" y1="62" x2="540" y2="62" stroke="#0B3D0B" stroke-width="2"/>
+
+  <!-- 2026 -->
+  <text x="55" y="105"
+        fill="#00FF66" font-family="Arial, Helvetica, sans-serif"
+        font-size="17" font-weight="700">
+    🔥
+  </text>
+  <text x="85" y="105"
+        fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif"
+        font-size="17" font-weight="700">
+    2026 Commits:
+  </text>
+  <text x="280" y="105"
+        fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif"
+        font-size="17" font-weight="700">
+    866
+  </text>
+
+  <!-- 2025 -->
+  <text x="55" y="150"
+        fill="#00FF66" font-family="Arial, Helvetica, sans-serif"
+        font-size="17" font-weight="700">
+    📅
+  </text>
+  <text x="85" y="150"
+        fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif"
+        font-size="17" font-weight="700">
+    2025 Commits:
+  </text>
+  <text x="280" y="150"
+        fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif"
+        font-size="17" font-weight="700">
+    207
+  </text>
+
+  <line x1="25" y1="178" x2="540" y2="178" stroke="#0B3D0B" stroke-width="1"/>
+
+  <text x="282.5" y="207" text-anchor="middle"
+        fill="#777777" font-family="Arial, Helvetica, sans-serif"
+        font-size="11">
+    Commit activity
+  </text>
+</svg>
