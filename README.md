@@ -1,3 +1,4 @@
+<img src="./assets/header.svg" alt="Pratyush Dubey - Frontend Developer" width="100%">
 <p align="center">
   <a href="https://github.com/pratyush61">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi+there!+I'm+Pratyush+Dubey+%F0%9F%91%8B;Frontend+Engineer+%26+React+Developer+%F0%9F%8E%93;Building+Performant%2C+Scalable+Web+Apps+%F0%9F%92%BB;Turning+Ideas+Into+Seamless+UI+%E2%9A%A1" width="620" alt="Typing SVG" />
