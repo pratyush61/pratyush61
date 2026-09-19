@@ -289,152 +289,20 @@ A real-time social media interface with chat and video calling, built with Redux
 
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
-<!-- YEAR-WISE COMMIT STATS -->
-
-<table
-  align="center"
-  width="565"
-  cellpadding="0"
-  cellspacing="0"
-  style="background:#041a0d; border:1px solid #0B3D0B; border-radius:10px; overflow:hidden;"
->
-
-<tr>
-
-<td
-  align="center"
-  width="50%"
-  style="padding:22px 15px;"
->
-
-<p style="margin:0; color:#00FF66; font-size:16px;">
-  🔥 <b>2026 Commits</b>
+<p align="center">
+  <img
+    src="./assets/github-stats.svg"
+    width="565"
+    alt="GitHub Analytics and Activity"
+  />
 </p>
-
-<h1 style="margin:12px 0 0 0; color:#ffffff; font-size:34px;">
-  866
-</h1>
-
-</td>
-
-<td
-  align="center"
-  width="50%"
-  style="padding:22px 15px; border-left:1px solid #0B3D0B;"
->
-
-<p style="margin:0; color:#00FF66; font-size:16px;">
-  📅 <b>2025 Commits</b>
-</p>
-
-<h1 style="margin:12px 0 0 0; color:#ffffff; font-size:34px;">
-  207
-</h1>
-
-</td>
-
-</tr>
-
-</table>
-
-<br />
-
-<!-- CONTRIBUTION SUMMARY -->
-
-<table
-  align="center"
-  width="565"
-  cellpadding="0"
-  cellspacing="0"
-  style="background:#041a0d; border:1px solid #0B3D0B; border-radius:10px; overflow:hidden;"
->
-
-<tr>
-
-<td
-  align="center"
-  width="33.33%"
-  style="padding:22px 10px;"
->
-
-<h1 style="margin:0; color:#ffffff; font-size:30px;">
-  1000+
-</h1>
-
-<p style="margin:8px 0 0 0; color:#00FF66;">
-  <b>Total Commits</b>
-</p>
-
-<p style="margin:6px 0 0 0; color:#999999; font-size:12px;">
-  Nov 18, 2024 - Present
-</p>
-
-</td>
-
-<td
-  align="center"
-  width="33.33%"
-  style="padding:22px 10px; border-left:1px solid #0B3D0B;"
->
-
-<div
-  style="
-    width:68px;
-    height:68px;
-    border:6px solid #00FF66;
-    border-radius:50%;
-    margin:auto;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-  "
->
-
-<span style="color:#ffffff; font-size:24px; font-weight:bold;">
-  24
-</span>
-
-</div>
-
-<p style="margin:10px 0 0 0; color:#00FF66;">
-  <b>Current Streak</b>
-</p>
-
-<p style="margin:6px 0 0 0; color:#999999; font-size:12px;">
-  Aug 27 - Sep 19
-</p>
-
-</td>
-
-<td
-  align="center"
-  width="33.33%"
-  style="padding:22px 10px; border-left:1px solid #0B3D0B;"
->
-
-<h1 style="margin:0; color:#ffffff; font-size:30px;">
-  38
-</h1>
-
-<p style="margin:8px 0 0 0; color:#00FF66;">
-  <b>Longest Streak</b>
-</p>
-
-<p style="margin:6px 0 0 0; color:#999999; font-size:12px;">
-  Jul 11 - Aug 17
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-<br />
 
 <p align="center">
   <a href="https://github.com/pratyush61">
-    <img src="https://img.shields.io/badge/GitHub_Achievements-View_on_Profile-111111?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0a0a0a" alt="GitHub Achievements" />
+    <img
+      src="https://img.shields.io/badge/GitHub_Achievements-View_on_Profile-111111?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0a0a0a"
+      alt="GitHub Achievements"
+    />
   </a>
 </p>
 
