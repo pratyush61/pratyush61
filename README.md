@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=0B3D0B&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Hi+there%2C+I'm+Pratyush+Dubey+%F0%9F%91%8B;Frontend+Engineer+%7C+React+%26+Next.js;Building+performant%2C+scalable+web+apps" width="100%" style="max-width: 650px;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Hi+there%2C+I'm+Pratyush+Dubey+%F0%9F%91%8B;Frontend+Engineer+%7C+React+%26+Next.js;Building+performant%2C+scalable+web+apps" width="650" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -130,22 +130,22 @@ A real-time social media interface with chat and video calling, built with Redux
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" width="100%" style="max-width: 260px;" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" width="260" alt="Languages" />
 </p>
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 260px;" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" width="260" alt="Frontend" />
 </p>
 
 <p align="center"><b>Backend (Working Knowledge)</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="100%" style="max-width: 80px;" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60" alt="Backend" />
 </p>
 
 <p align="center"><b>Tools & Platforms</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,devto&theme=dark" width="100%" style="max-width: 260px;" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,devto&theme=dark" width="260" alt="Tools" />
 </p>
 
 <p align="center">
@@ -163,13 +163,18 @@ A real-time social media interface with chat and video calling, built with Redux
 <h2 align="center">🟢 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=pratyush61&show_icons=true&bg_color=041a0d&title_color=00FF66&text_color=f3f4f6&icon_color=00FF66&border_color=0B3D0B" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pratyush61&show_icons=true&count_private=true&year=2025&hide=prs,issues,contribs&bg_color=041a0d&title_color=00FF66&text_color=f3f4f6&icon_color=00FF66&border_color=0B3D0B" width="440" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pratyush61&layout=compact&bg_color=041a0d&title_color=00FF66&text_color=f3f4f6&border_color=0B3D0B" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pratyush61&layout=compact&bg_color=041a0d&title_color=00FF66&text_color=f3f4f6&border_color=0B3D0B" width="350" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush61&theme=dark&hide_border=false&border=0B3D0B&background=041a0d&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush61&theme=dark&hide_border=false&border=0B3D0B&background=041a0d&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="480" alt="GitHub Streak" />
+</p>
+
+<p align="center"><b>Achievements</b></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratyush61&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" width="700" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -177,7 +182,7 @@ A real-time social media interface with chat and video calling, built with Redux
 <h2 align="center">🟢 Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" alt="Snake Animation" />
 </p>
 
 ---
