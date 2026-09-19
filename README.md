@@ -271,27 +271,21 @@ A real-time social media interface with chat and video calling, built with Redux
 
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
-<p align="center">
-  <table align="center" style="border-collapse: collapse; background-color: #041a0d; border: 1px solid #0B3D0B;">
-    <tr>
-      <td align="center" style="padding: 18px 35px; border-right: 1px solid #0B3D0B;">
-        <b>🔥 2026 Commits</b>
-        <br /><br />
-        <span style="font-size: 28px;"><b>866</b></span>
-        <br /><br />
-        <hr style="border: 0; border-top: 1px solid #0B3D0B;" />
-      </td>
+<table align="center" width="520" style="border-collapse: collapse;">
+<tr>
 
-      <td align="center" style="padding: 18px 35px;">
-        <b>📅 2025 Commits</b>
-        <br /><br />
-        <span style="font-size: 28px;"><b>207</b></span>
-        <br /><br />
-        <hr style="border: 0; border-top: 1px solid #0B3D0B;" />
-      </td>
-    </tr>
-  </table>
-</p>
+<td align="center" width="50%" style="padding: 20px; border: 1px solid #0B3D0B; background-color: #041a0d;">
+  <h3>🔥 2026 Commits</h3>
+  <h1>866</h1>
+</td>
+
+<td align="center" width="50%" style="padding: 20px; border: 1px solid #0B3D0B; background-color: #041a0d;">
+  <h3>📅 2025 Commits</h3>
+  <h1>207</h1>
+</td>
+
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/pratyush61">
