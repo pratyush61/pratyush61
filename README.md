@@ -56,6 +56,7 @@
 
 <table width="100%" border="0" align="center">
 <tr>
+
 <td width="50%" align="center" style="padding: 14px;">
 
 <h4>🚀 Flagship Project</h4>
@@ -83,6 +84,7 @@
 </p>
 
 </td>
+
 </tr>
 
 <tr>
@@ -112,6 +114,7 @@
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -251,7 +254,7 @@ A real-time social media interface with chat and video calling, built with Redux
 
 ---
 
-<p align="center"><b>Most Used Technologies</b></p>
+<h2 align="center">📊 Most Used Technologies</h2>
 
 <p align="center">
   <i>Technologies used across my frontend projects</i>
@@ -286,35 +289,148 @@ A real-time social media interface with chat and video calling, built with Redux
 
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
-<!-- CUSTOM YEAR-WISE COMMIT STATS -->
+<!-- YEAR-WISE COMMIT STATS -->
 
-<table align="center" width="520" style="border-collapse: collapse; background-color: #041a0d; border: 1px solid #0B3D0B; border-radius: 8px;">
+<table
+  align="center"
+  width="565"
+  cellpadding="0"
+  cellspacing="0"
+  style="background:#041a0d; border:1px solid #0B3D0B; border-radius:10px; overflow:hidden;"
+>
+
 <tr>
 
-<td align="center" width="50%" style="padding: 25px;">
+<td
+  align="center"
+  width="50%"
+  style="padding:22px 15px;"
+>
 
-<h3 style="color:#00FF66;">🔥 2026 Commits</h3>
+<p style="margin:0; color:#00FF66; font-size:16px;">
+  🔥 <b>2026 Commits</b>
+</p>
 
-<h1 style="color:white; font-size:40px;">900+</h1>
+<h1 style="margin:12px 0 0 0; color:#ffffff; font-size:34px;">
+  866
+</h1>
 
 </td>
 
-<td align="center" width="50%" style="padding: 25px; border-left: 1px solid #0B3D0B;">
+<td
+  align="center"
+  width="50%"
+  style="padding:22px 15px; border-left:1px solid #0B3D0B;"
+>
 
-<h3 style="color:#00FF66;">📅 2025 Commits</h3>
+<p style="margin:0; color:#00FF66; font-size:16px;">
+  📅 <b>2025 Commits</b>
+</p>
 
-<h1 style="color:white; font-size:40px;">200+</h1>
+<h1 style="margin:12px 0 0 0; color:#ffffff; font-size:34px;">
+  207
+</h1>
 
 </td>
 
 </tr>
+
 </table>
 
 <br />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush61&theme=dark&hide_border=false&border=0B3D0B&background=041a0d&ring=00FF66&fire=00FF66&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF66&sideLabels=0B3D0B&dates=999999" width="480" alt="GitHub Streak" />
+<!-- CONTRIBUTION SUMMARY -->
+
+<table
+  align="center"
+  width="565"
+  cellpadding="0"
+  cellspacing="0"
+  style="background:#041a0d; border:1px solid #0B3D0B; border-radius:10px; overflow:hidden;"
+>
+
+<tr>
+
+<td
+  align="center"
+  width="33.33%"
+  style="padding:22px 10px;"
+>
+
+<h1 style="margin:0; color:#ffffff; font-size:30px;">
+  1000+
+</h1>
+
+<p style="margin:8px 0 0 0; color:#00FF66;">
+  <b>Total Commits</b>
 </p>
+
+<p style="margin:6px 0 0 0; color:#999999; font-size:12px;">
+  Nov 18, 2024 - Present
+</p>
+
+</td>
+
+<td
+  align="center"
+  width="33.33%"
+  style="padding:22px 10px; border-left:1px solid #0B3D0B;"
+>
+
+<div
+  style="
+    width:68px;
+    height:68px;
+    border:6px solid #00FF66;
+    border-radius:50%;
+    margin:auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  "
+>
+
+<span style="color:#ffffff; font-size:24px; font-weight:bold;">
+  24
+</span>
+
+</div>
+
+<p style="margin:10px 0 0 0; color:#00FF66;">
+  <b>Current Streak</b>
+</p>
+
+<p style="margin:6px 0 0 0; color:#999999; font-size:12px;">
+  Aug 27 - Sep 19
+</p>
+
+</td>
+
+<td
+  align="center"
+  width="33.33%"
+  style="padding:22px 10px; border-left:1px solid #0B3D0B;"
+>
+
+<h1 style="margin:0; color:#ffffff; font-size:30px;">
+  38
+</h1>
+
+<p style="margin:8px 0 0 0; color:#00FF66;">
+  <b>Longest Streak</b>
+</p>
+
+<p style="margin:6px 0 0 0; color:#999999; font-size:12px;">
+  Jul 11 - Aug 17
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br />
 
 <p align="center">
   <a href="https://github.com/pratyush61">
@@ -326,66 +442,12 @@ A real-time social media interface with chat and video calling, built with Redux
 
 <h2 align="center">⚡ Contribution Journey</h2>
 
-<table align="center" width="520" style="border-collapse: collapse; background-color: #041a0d; border: 1px solid #0B3D0B;">
-
-<tr>
-
-<td align="center" width="50%" style="padding: 25px;">
-
-<h1 style="color:white; font-size:38px;">1000+</h1>
-
-<p style="color:#00FF66;">
-  <b>Total Commits</b>
-</p>
-
-<p style="color:#999999;">
-  Nov 18, 2024 - Present
-</p>
-
-</td>
-
-<td align="center" width="50%" style="padding: 25px; border-left: 1px solid #0B3D0B;">
-
-<h1 style="color:white; font-size:38px;">24</h1>
-
-<p style="color:#00FF66;">
-  <b>Current Streak</b>
-</p>
-
-<p style="color:#999999;">
-  Aug 27 - Sep 19
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" colspan="2" style="padding: 20px; border-top: 1px solid #0B3D0B;">
-
-<h1 style="color:white; font-size:38px;">38</h1>
-
-<p style="color:#00FF66;">
-  <b>Longest Streak</b>
-</p>
-
-<p style="color:#999999;">
-  Jul 11 - Aug 17
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<h2 align="center">🐍 Contribution Journey</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" alt="Snake Animation" />
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="700"
+    alt="Snake Animation"
+  />
 </p>
 
 ---
@@ -407,11 +469,19 @@ A real-time social media interface with chat and video calling, built with Redux
 
 <a href="https://linkedin.com/in/webdev-pratyush-dubey" target="_blank">
 
-<img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+<img
+  src="https://skillicons.dev/icons?i=linkedin"
+  width="60"
+  height="60"
+  alt="LinkedIn"
+/>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-16A34A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+<img
+  src="https://img.shields.io/badge/LinkedIn-Connect-16A34A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"
+  alt="LinkedIn"
+/>
 
 </a>
 
@@ -425,11 +495,19 @@ A real-time social media interface with chat and video calling, built with Redux
 
 <a href="mailto:pratyushdubey202004@gmail.com">
 
-<img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+<img
+  src="https://skillicons.dev/icons?i=gmail"
+  width="60"
+  height="60"
+  alt="Gmail"
+/>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Email-Contact_Me-16A34A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+<img
+  src="https://img.shields.io/badge/Email-Contact_Me-16A34A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"
+  alt="Email"
+/>
 
 </a>
 
@@ -443,11 +521,19 @@ A real-time social media interface with chat and video calling, built with Redux
 
 <a href="https://github.com/pratyush61" target="_blank">
 
-<img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
+<img
+  src="https://skillicons.dev/icons?i=github"
+  width="60"
+  height="60"
+  alt="GitHub"
+/>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0a0a0a" alt="GitHub" />
+<img
+  src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0a0a0a"
+  alt="GitHub"
+/>
 
 </a>
 
