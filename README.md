@@ -1,4 +1,5 @@
 <img src="./assets/header.svg" alt="Pratyush Dubey - Frontend Developer" width="100%">
+
 <p align="center">
   <a href="https://github.com/pratyush61">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi+there!+I'm+Pratyush+Dubey+%F0%9F%91%8B;Frontend+Engineer+%26+React+Developer+%F0%9F%8E%93;Building+Performant%2C+Scalable+Web+Apps+%F0%9F%92%BB;Turning+Ideas+Into+Seamless+UI+%E2%9A%A1" width="620" alt="Typing SVG" />
@@ -37,7 +38,7 @@
 
 <p align="center">
   Hey! I'm <b>Pratyush Dubey</b>, a passionate <b>Frontend Engineer & Computer Science Engineering student</b> based in India.<br />
-  I specialize in building performant, scalable, and user-centric web applications with modern React ecosystems, state management, and clean frontend architecture.
+  I specialize in building performant, scalable, and user-centric web applications with modern React ecosystems, state management, animations, 3D experiences, and clean frontend architecture.
 </p>
 
 <p align="center">
@@ -49,7 +50,7 @@
 </p>
 
 <p align="center">
-  💬 <b>Let's Discuss:</b> React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Frontend Architecture & Performance.<br />
+  💬 <b>Let's Discuss:</b> React.js, Next.js, JavaScript, Tailwind CSS, Frontend Architecture, Animations & Performance.<br />
   ⚡ <b>Philosophy:</b> <i>"Building seamless experiences, one optimized render at a time."</i>
 </p>
 
@@ -57,21 +58,46 @@
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🚀 Flagship Project</h4>
-  <p><a href="https://portfolio-jet-ten-jjtyz5uxhe.vercel.app/" target="_blank"><b>Personal Developer Portfolio</b></a><br /><sub>React, Tailwind CSS & Bootstrap</sub></p>
+  <p>
+    <a href="https://portfolio-jet-ten-jjtyz5uxhe.vercel.app/" target="_blank">
+      <b>Personal Developer Portfolio</b>
+    </a>
+    <br />
+    <sub>React, Tailwind CSS & Bootstrap</sub>
+  </p>
 </td>
+
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🍎 Signature UI Build</h4>
-  <p><a href="https://apple-ui-six.vercel.app/" target="_blank"><b>Apple UI</b></a><br /><sub>React, Three.js & Scroll Animations</sub></p>
+  <p>
+    <a href="https://apple-ui-six.vercel.app/" target="_blank">
+      <b>Apple UI</b>
+    </a>
+    <br />
+    <sub>React, Three.js & Scroll Animations</sub>
+  </p>
 </td>
 </tr>
+
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🌐 SaaS Landing Page</h4>
-  <p><a href="https://nike-landing-page-one-rose.vercel.app/" target="_blank"><b>Modern SaaS Landing Page</b></a><br /><sub>Next.js, Tailwind CSS & Framer Motion</sub></p>
+  <h4>🌐 Modern Landing Page</h4>
+  <p>
+    <a href="https://nike-landing-page-one-rose.vercel.app/" target="_blank">
+      <b>Modern Landing Page</b>
+    </a>
+    <br />
+    <sub>Next.js, Tailwind CSS & Framer Motion</sub>
+  </p>
 </td>
+
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🤝 Collaboration</h4>
-  <p><b>Web & Frontend Engineering</b><br /><sub>Open to exciting new projects</sub></p>
+  <p>
+    <b>Web & Frontend Engineering</b>
+    <br />
+    <sub>Open to exciting new projects</sub>
+  </p>
 </td>
 </tr>
 </table>
@@ -82,41 +108,65 @@
 
 <table width="100%" border="0" align="center">
 <tr>
+
 <td align="center" width="33%" style="padding: 20px;">
   <h3>🖥️ Personal Developer Portfolio</h3>
-  <p><i>A modern personal portfolio built with React, featuring a scalable component-based architecture and a fully responsive UI with Tailwind CSS and Bootstrap.</i></p>
+  <p>
+    <i>
+      A modern personal portfolio built with React, featuring a scalable
+      component-based architecture and responsive UI with Tailwind CSS and Bootstrap.
+    </i>
+  </p>
+
   <p>
     <a href="https://portfolio-jet-ten-jjtyz5uxhe.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
     </a>
   </p>
 </td>
+
 <td align="center" width="33%" style="padding: 20px;">
   <h3>🍏 Apple UI</h3>
-  <p><i>An Apple-inspired UI built with React and Three.js, featuring interactive 3D elements and AOS-powered scroll animations for a premium, high-end feel.</i></p>
+  <p>
+    <i>
+      An Apple-inspired UI built with React and Three.js, featuring
+      interactive 3D elements and smooth scroll animations.
+    </i>
+  </p>
+
   <p>
     <a href="https://apple-ui-six.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
     </a>
   </p>
 </td>
+
 <td align="center" width="33%" style="padding: 20px;">
-  <h3>📈 Modern SaaS Landing Page</h3>
-  <p><i>A high-conversion landing page built with Next.js, featuring smooth Framer Motion animations, responsive design, and SEO best practices.</i></p>
+  <h3>📈 Modern Landing Page</h3>
+  <p>
+    <i>
+      A modern landing page built with Next.js, featuring smooth Framer Motion
+      animations, responsive design, and optimized frontend performance.
+    </i>
+  </p>
+
   <p>
     <a href="https://nike-landing-page-one-rose.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
     </a>
   </p>
 </td>
+
 </tr>
 </table>
 
 <details>
 <summary align="center"><b>🗂️ More Projects</b></summary>
+
 <br />
 
-**Social Media Frontend** — React, Redux, WebRTC
+<b>Social Media Frontend</b> — React, Redux, WebRTC
+
 A real-time social media interface with chat and video calling, built with Redux for global state management and WebRTC for peer-to-peer communication.
 
 <p align="center">
@@ -131,24 +181,39 @@ A real-time social media interface with chat and video calling, built with Redux
 
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<p align="center"><b>Core Languages</b></p>
+<p align="center"><b>Languages & Core Web</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" width="240" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="JavaScript HTML CSS" />
   </a>
 </p>
 
-<p align="center"><b>Frontend Development</b></p>
+<p align="center"><b>Frontend Frameworks & Libraries</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" width="240" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,threejs&theme=dark" alt="React Next.js Tailwind Bootstrap Three.js" />
   </a>
 </p>
 
-<p align="center"><b>Backend, Tools & Platforms</b></p>
+<p align="center"><b>State, Animation & Real-Time</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/WebRTC-0a0a0a?style=for-the-badge&logo=webrtc&logoColor=00FF66" alt="WebRTC" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Framer_Motion-0a0a0a?style=for-the-badge&logo=framer&logoColor=00FF66" alt="Framer Motion" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GSAP-0a0a0a?style=for-the-badge&logo=greensock&logoColor=00FF66" alt="GSAP" />
+</p>
+
+<p align="center"><b>Build Tools & Platforms</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,git,github,vercel,devto&theme=dark" width="300" alt="Backend and Tools" />
+    <img src="https://skillicons.dev/icons?i=vite,git,github,vercel&theme=dark" alt="Vite Git GitHub Vercel" />
   </a>
 </p>
 
@@ -157,9 +222,42 @@ A real-time social media interface with chat and video calling, built with Redux
   &nbsp;
   <img src="https://img.shields.io/badge/WebSockets-0a0a0a?style=for-the-badge&logo=socketdotio&logoColor=00FF66" alt="WebSockets" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Accessibility_(a11y)-0a0a0a?style=for-the-badge&logo=accessibility&logoColor=00FF66" alt="a11y" />
+  <img src="https://img.shields.io/badge/Accessibility_(a11y)-0a0a0a?style=for-the-badge&logo=accessibility&logoColor=00FF66" alt="Accessibility" />
   &nbsp;
   <img src="https://img.shields.io/badge/Performance_Optimization-0a0a0a?style=for-the-badge&logo=speedtest&logoColor=00FF66" alt="Performance" />
+</p>
+
+---
+
+<h2 align="center">📊 Most Used Technologies</h2>
+
+<p align="center">
+  <i>Technologies used across my frontend projects</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-1-00FF66?style=for-the-badge&logo=javascript&logoColor=00FF66&labelColor=0a0a0a" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-2-00FF66?style=for-the-badge&logo=html5&logoColor=00FF66&labelColor=0a0a0a" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-3-00FF66?style=for-the-badge&logo=css3&logoColor=00FF66&labelColor=0a0a0a" alt="CSS" />
+  <img src="https://img.shields.io/badge/React-4-00FF66?style=for-the-badge&logo=react&logoColor=00FF66&labelColor=0a0a0a" alt="React" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-5-00FF66?style=for-the-badge&logo=tailwindcss&logoColor=00FF66&labelColor=0a0a0a" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-6-00FF66?style=for-the-badge&logo=bootstrap&logoColor=00FF66&labelColor=0a0a0a" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Three.js-7-00FF66?style=for-the-badge&logo=threedotjs&logoColor=00FF66&labelColor=0a0a0a" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Next.js-8-00FF66?style=for-the-badge&logo=nextdotjs&logoColor=00FF66&labelColor=0a0a0a" alt="Next.js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Framer_Motion-9-00FF66?style=for-the-badge&logo=framer&logoColor=00FF66&labelColor=0a0a0a" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/GSAP-10-00FF66?style=for-the-badge&logo=greensock&logoColor=00FF66&labelColor=0a0a0a" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Redux-11-00FF66?style=for-the-badge&logo=redux&logoColor=00FF66&labelColor=0a0a0a" alt="Redux" />
+  <img src="https://img.shields.io/badge/WebRTC-12-00FF66?style=for-the-badge&logo=webrtc&logoColor=00FF66&labelColor=0a0a0a" alt="WebRTC" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vite-13-00FF66?style=for-the-badge&logo=vite&logoColor=00FF66&labelColor=0a0a0a" alt="Vite" />
 </p>
 
 ---
@@ -167,7 +265,7 @@ A real-time social media interface with chat and video calling, built with Redux
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pratyush61&layout=compact&bg_color=041a0d&title_color=00FF66&text_color=f3f4f6&border_color=0B3D0B&border_radius=8" width="350" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pratyush61&show_icons=true&theme=dark&bg_color=041a0d&title_color=00FF66&icon_color=00FF66&text_color=f3f4f6&border_color=0B3D0B&border_radius=8&hide_border=false" width="480" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -175,9 +273,7 @@ A real-time social media interface with chat and video calling, built with Redux
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2025_Contributions-207-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="2025 Contributions" />
-  &nbsp;
-  <a href="https://github.com/pratyush61" target="_blank">
+  <a href="https://github.com/pratyush61">
     <img src="https://img.shields.io/badge/GitHub_Achievements-View_on_Profile-111111?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0a0a0a" alt="GitHub Achievements" />
   </a>
 </p>
@@ -194,10 +290,16 @@ A real-time social media interface with chat and video calling, built with Redux
 
 <h2 align="center">📬 Let's Connect & Collaborate</h2>
 
-<p align="center"><i>Whether you want to discuss frontend architecture, React best practices, or just say hello — my inbox is always open!</i></p>
+<p align="center">
+  <i>
+    Whether you want to discuss frontend architecture, React best practices,
+    or just say hello — my inbox is always open!
+  </i>
+</p>
 
 <table border="0" align="center">
 <tr>
+
 <td align="center" width="220" style="padding: 16px;">
   <a href="https://linkedin.com/in/webdev-pratyush-dubey" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
@@ -207,6 +309,7 @@ A real-time social media interface with chat and video calling, built with Redux
   <br />
   <sub><b>Professional Network</b></sub>
 </td>
+
 <td align="center" width="220" style="padding: 16px;">
   <a href="mailto:pratyushdubey202004@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
@@ -216,6 +319,7 @@ A real-time social media interface with chat and video calling, built with Redux
   <br />
   <sub><b>Direct Collaboration</b></sub>
 </td>
+
 <td align="center" width="220" style="padding: 16px;">
   <a href="https://github.com/pratyush61" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
@@ -225,5 +329,6 @@ A real-time social media interface with chat and video calling, built with Redux
   <br />
   <sub><b>Code & Projects</b></sub>
 </td>
+
 </tr>
 </table>
