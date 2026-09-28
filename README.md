@@ -275,7 +275,7 @@ A real-time social media interface with chat and video calling, built with Redux
 
 ---
 
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
+<h2 align="center">GitHub Analytics & Activity</h2>
 
 <p align="center">
   <img src="./assets/github-stats.svg" width="565" alt="GitHub Analytics & Activity" />
