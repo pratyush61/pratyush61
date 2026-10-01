@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center"
   <a href="https://linkedin.com/in/webdev-pratyush-dubey" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-16A34A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
