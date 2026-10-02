@@ -344,5 +344,5 @@ A real-time social media interface with chat and video calling, built with Redux
   <sub><b>Code & Projects</b></sub>
 </td>
 
-</tr
+</tr>
 </table>
