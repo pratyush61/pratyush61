@@ -1,4 +1,4 @@
-
+ 
 <img src="./assets/header.svg" alt="Pratyush Dubey - Frontend Developer" width="100%">
 
 <p align="center">
@@ -53,27 +53,35 @@
 
 <table width="100%" border="0" align="center">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding:14px;">
   <h4>🚀 Flagship Project</h4>
-  <a href="https://portfolio-jet-ten-jjtyz5uxhe.vercel.app/"><b>Personal Developer Portfolio</b></a><br>
-  <sub>React, Tailwind CSS & Bootstrap</sub>
+  <p>
+    <a href="https://portfolio-jet-ten-jjtyz5uxhe.vercel.app/"><b>Personal Developer Portfolio</b></a><br>
+    <sub>React, Tailwind CSS & Bootstrap</sub>
+  </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding:14px;">
   <h4>🍎 Signature UI Build</h4>
-  <a href="https://apple-ui-six.vercel.app/"><b>Apple UI</b></a><br>
-  <sub>React, Three.js & Scroll Animations</sub>
+  <p>
+    <a href="https://apple-ui-six.vercel.app/"><b>Apple UI</b></a><br>
+    <sub>React, Three.js & Scroll Animations</sub>
+  </p>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding:14px;">
   <h4>🌐 Modern Landing Page</h4>
-  <a href="https://nike-landing-page-one-rose.vercel.app/"><b>Modern Landing Page</b></a><br>
-  <sub>Next.js, Tailwind CSS & Framer Motion</sub>
+  <p>
+    <a href="https://nike-landing-page-one-rose.vercel.app/"><b>Modern Landing Page</b></a><br>
+    <sub>Next.js, Tailwind CSS & Framer Motion</sub>
+  </p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding:14px;">
   <h4>🤝 Collaboration</h4>
-  <b>Web & Frontend Engineering</b><br>
-  <sub>Open to exciting new projects</sub>
+  <p>
+    <b>Web & Frontend Engineering</b><br>
+    <sub>Open to exciting new projects</sub>
+  </p>
 </td>
 </tr>
 </table>
@@ -84,26 +92,32 @@
 
 <table width="100%" border="0" align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" style="padding:20px;">
   <h3>🖥️ Personal Developer Portfolio</h3>
   <p><i>A modern personal portfolio built with React, featuring a scalable component-based architecture and responsive UI with Tailwind CSS and Bootstrap.</i></p>
-  <a href="https://portfolio-jet-ten-jjtyz5uxhe.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio Demo">
-  </a>
+  <p>
+    <a href="https://portfolio-jet-ten-jjtyz5uxhe.vercel.app/">
+      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio Live Demo">
+    </a>
+  </p>
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" style="padding:20px;">
   <h3>🍏 Apple UI</h3>
   <p><i>An Apple-inspired UI built with React and Three.js, featuring interactive 3D elements and smooth scroll animations.</i></p>
-  <a href="https://apple-ui-six.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Apple UI Demo">
-  </a>
+  <p>
+    <a href="https://apple-ui-six.vercel.app/">
+      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Apple UI Live Demo">
+    </a>
+  </p>
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" style="padding:20px;">
   <h3>📈 Modern Landing Page</h3>
   <p><i>A modern landing page built with Next.js, featuring smooth Framer Motion animations, responsive design, and optimized frontend performance.</i></p>
-  <a href="https://nike-landing-page-one-rose.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Landing Page Demo">
-  </a>
+  <p>
+    <a href="https://nike-landing-page-one-rose.vercel.app/">
+      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Landing Page Live Demo">
+    </a>
+  </p>
 </td>
 </tr>
 </table>
@@ -130,6 +144,7 @@ A real-time social media interface with chat and video calling, built with Redux
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <p align="center"><b>Languages & Core Web</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="JavaScript HTML CSS">
@@ -137,6 +152,7 @@ A real-time social media interface with chat and video calling, built with Redux
 </p>
 
 <p align="center"><b>Frontend Frameworks & Libraries</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,threejs&theme=dark" alt="React Next.js Tailwind Bootstrap Three.js">
@@ -144,6 +160,7 @@ A real-time social media interface with chat and video calling, built with Redux
 </p>
 
 <p align="center"><b>State, Animation & Real-Time</b></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux">
   &nbsp;
@@ -155,6 +172,7 @@ A real-time social media interface with chat and video calling, built with Redux
 </p>
 
 <p align="center"><b>Build Tools & Platforms</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite,git,github,vercel&theme=dark" alt="Vite Git GitHub Vercel">
@@ -174,7 +192,10 @@ A real-time social media interface with chat and video calling, built with Redux
 ---
 
 <h2 align="center">📊 Most Used Technologies</h2>
-<p align="center"><i>Technologies used across my frontend projects</i></p>
+
+<p align="center">
+  <i>Technologies used across my frontend projects</i>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-1-00FF66?style=for-the-badge&logo=javascript&logoColor=00FF66&labelColor=0a0a0a" alt="JavaScript">
@@ -182,18 +203,21 @@ A real-time social media interface with chat and video calling, built with Redux
   <img src="https://img.shields.io/badge/CSS-3-00FF66?style=for-the-badge&logo=css3&logoColor=00FF66&labelColor=0a0a0a" alt="CSS">
   <img src="https://img.shields.io/badge/React-4-00FF66?style=for-the-badge&logo=react&logoColor=00FF66&labelColor=0a0a0a" alt="React">
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-5-00FF66?style=for-the-badge&logo=tailwindcss&logoColor=00FF66&labelColor=0a0a0a" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Bootstrap-6-00FF66?style=for-the-badge&logo=bootstrap&logoColor=00FF66&labelColor=0a0a0a" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Three.js-7-00FF66?style=for-the-badge&logo=threedotjs&logoColor=00FF66&labelColor=0a0a0a" alt="Three.js">
   <img src="https://img.shields.io/badge/Next.js-8-00FF66?style=for-the-badge&logo=nextdotjs&logoColor=00FF66&labelColor=0a0a0a" alt="Next.js">
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Framer_Motion-9-00FF66?style=for-the-badge&logo=framer&logoColor=00FF66&labelColor=0a0a0a" alt="Framer Motion">
   <img src="https://img.shields.io/badge/GSAP-10-00FF66?style=for-the-badge&logo=greensock&logoColor=00FF66&labelColor=0a0a0a" alt="GSAP">
   <img src="https://img.shields.io/badge/Redux-11-00FF66?style=for-the-badge&logo=redux&logoColor=00FF66&labelColor=0a0a0a" alt="Redux">
   <img src="https://img.shields.io/badge/WebRTC-12-00FF66?style=for-the-badge&logo=webrtc&logoColor=00FF66&labelColor=0a0a0a" alt="WebRTC">
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Vite-13-00FF66?style=for-the-badge&logo=vite&logoColor=00FF66&labelColor=0a0a0a" alt="Vite">
 </p>
@@ -203,27 +227,7 @@ A real-time social media interface with chat and video calling, built with Redux
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/pratyush61?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Explore My Repositories">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush61&theme=dark&hide_border=true&background=041a0d&ring=00FF66&fire=00FF66&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF66&sideLabels=00FF66&dates=999999" width="480" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <a href="https://github.com/pratyush61">
-    <img src="https://img.shields.io/badge/GitHub_Achievements-View_on_Profile-111111?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0a0a0a" alt="GitHub Achievements">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/pratyush61">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Visit GitHub Profile">
-  </a>
 </p>
 
 ---
@@ -242,25 +246,33 @@ A real-time social media interface with chat and video calling, built with Redux
 
 <table border="0" align="center">
 <tr>
-<td align="center" width="220">
+<td align="center" width="220" style="padding:16px;">
   <a href="https://linkedin.com/in/webdev-pratyush-dubey">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn"><br><br>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn">
+    <br><br>
     <img src="https://img.shields.io/badge/LinkedIn-Connect-16A34A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn">
-  </a><br>
+  </a>
+  <br>
   <sub><b>Professional Network</b></sub>
 </td>
-<td align="center" width="220">
+
+<td align="center" width="220" style="padding:16px;">
   <a href="mailto:pratyushdubey202004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail"><br><br>
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail">
+    <br><br>
     <img src="https://img.shields.io/badge/Email-Contact_Me-16A34A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email">
-  </a><br>
+  </a>
+  <br>
   <sub><b>Direct Collaboration</b></sub>
 </td>
-<td align="center" width="220">
+
+<td align="center" width="220" style="padding:16px;">
   <a href="https://github.com/pratyush61">
-    <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub"><br><br>
+    <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub">
+    <br><br>
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0a0a0a" alt="GitHub">
-  </a><br>
+  </a>
+  <br>
   <sub><b>Code & Projects</b></sub>
 </td>
 </tr>
