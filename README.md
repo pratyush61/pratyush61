@@ -122,22 +122,11 @@
 </tr>
 </table>
 
-<details>
-<summary align="center"><b>🗂️ More Projects</b></summary>
-
-<br>
-
-**Social Media Frontend — React, Redux, WebRTC**
-
-A real-time social media interface with chat and video calling, built with Redux for global state management and WebRTC for peer-to-peer communication.
-
 <p align="center">
-  <a href="https://github.com/pratyush61/MyGram">
-    <img src="https://img.shields.io/badge/Source%20Code-View%20Repo-111111?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0a0a0a" alt="Source Code">
+  <a href="https://github.com/pratyush61?tab=repositories">
+    <img src="https://img.shields.io/badge/🗂️_More_Projects-View_All_Repositories-16A34A?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="More Projects - View All Repositories">
   </a>
 </p>
-
-</details>
 
 ---
 
