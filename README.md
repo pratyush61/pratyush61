@@ -23,7 +23,7 @@
 
 ---
 
-<h2 align="center">🟢 About Me</h2>
+<h2 align="center">🟢 About Me</h2
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=28&lines=Driven+by+precision.+Building+for+impact.+Shipping+clean+UI" width="600" alt="Typing Quote">
