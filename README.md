@@ -265,4 +265,4 @@
   <sub><b>Code & Projects</b></sub>
 </td>
 </tr>
-</table>
+</table
