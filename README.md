@@ -262,7 +262,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0a0a0a" alt="GitHub">
   </a>
   <br>
-  <sub><b>Code & Projects</b></sub>
+  <sub><b>Code & Projects</b></sub
 </td>
 </tr>
 </table>
