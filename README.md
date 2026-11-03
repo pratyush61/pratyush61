@@ -1,5 +1,5 @@
  
-<img src="./assets/header.svg" alt="Pratyush Dubey - Frontend Developer" width="100%">
+<img src="./assets/header.svg" alt="Pratyush Dubey - Frontend Developer" width="100%"
 
 <p align="center">
   <a href="https://github.com/pratyush61">
