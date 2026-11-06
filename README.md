@@ -254,7 +254,7 @@
   <sub><b>Direct Collaboration</b></sub>
 </td>
 
-<td align="center" width="220" style="padding:16px;">
+<td align="center" width="220" style="padding:76px;">
   <a href="https://github.com/pratyush61">
     <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub">
     <br><br>
